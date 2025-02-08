@@ -1,0 +1,10 @@
+os
+time
+tempfile
+pathlib
+phi
+google-generativeai
+dotenv
+phi
+google-generativeai
+python-dotenv
